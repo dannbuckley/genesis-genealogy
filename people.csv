@@ -1,9 +1,9 @@
 rowid,person,notes
-1,Adam,NULL
-2,Eve,NULL
-3,Cain,NULL
-4,Abel,NULL
-5,Seth,NULL
+1,Adam,Gen. 4-5
+2,Eve,Gen. 4-5
+3,Cain,Gen. 4
+4,Abel,Gen. 4
+5,Seth,Gen. 4-5
 6,Enoch,Son of Cain (Gen. 4:17-18)
 7,Irad,Gen. 4:18
 8,Mehujael,Gen. 4:18
@@ -15,251 +15,252 @@ rowid,person,notes
 14,Jubal,Gen. 4:21
 15,Tubal-cain,Gen. 4:22
 16,Naamah,Gen. 4:22
-17,Enosh,NULL
-18,Kenan,NULL
-19,Mahalalel,NULL
-20,Jared,NULL
+17,Enosh,Gen. 5:9-11
+18,Kenan,Gen. 5:12-14
+19,Mahalalel,Gen. 5:15-17
+20,Jared,Gen. 5:18-20
 21,Enoch,Son of Jared (Gen. 5:18-24)
-22,Methuselah,NULL
+22,Methuselah,Gen. 5:25-27
 23,Lamech,Son of Methuselah (Gen. 5:25-31)
-24,Noah,NULL
-25,Shem,NULL
-26,Ham,NULL
-27,Japheth,NULL
-28,Gomer,NULL
-29,Magog,NULL
-30,Madai,NULL
-31,Javan,NULL
-32,Tubal,NULL
-33,Meshech,NULL
-34,Tiras,NULL
-35,Ashkenaz,NULL
-36,Riphath,NULL
-37,Togarmah,NULL
-38,Elishah,NULL
-39,Tarshish,NULL
-40,Kittim,NULL
-41,Dodanim,NULL
-42,Cush,NULL
-43,Egypt,NULL
-44,Put,NULL
-45,Canaan,NULL
-46,Seba,NULL
+24,Noah,Gen. 5-10
+25,Shem,Gen. 10:21-11:26
+26,Ham,Gen. 10:6-20
+27,Japheth,Gen. 10:2-5
+28,Gomer,Gen. 10:2-3
+29,Magog,Gen. 10:2
+30,Madai,Gen. 10:2
+31,Javan,"Gen. 10:2,4"
+32,Tubal,Gen. 10:2
+33,Meshech,Gen. 10:2
+34,Tiras,Gen. 10:2
+35,Ashkenaz,Gen. 10:3
+36,Riphath,Gen. 10:3
+37,Togarmah,Gen. 10:3
+38,Elishah,Gen. 10:4
+39,Tarshish,Gen. 10:4
+40,Kittim,Gen. 10:4
+41,Dodanim,Gen. 10:4
+42,Cush,Gen. 10:6-12
+43,Egypt,"Gen. 10:6,13"
+44,Put,Gen. 10:6
+45,Canaan,"Gen. 10:6,15-20"
+46,Seba,Gen. 10:7
 47,Havilah,Son of Cush (Gen. 10:7)
-48,Sabtah,NULL
-49,Raamah,NULL
-50,Sabteca,NULL
-51,Nimrod,NULL
+48,Sabtah,Gen. 10:7
+49,Raamah,Gen. 10:7
+50,Sabteca,Gen. 10:7
+51,Nimrod,Gen. 10:8-12
 52,Sheba,Son of Raamah (Gen. 10:7)
 53,Dedan,Son of Raamah (Gen. 10:7)
-54,Ludim,NULL
-55,Anamim,NULL
-56,Lehabim,NULL
-57,Naphtuhim,NULL
-58,Pathrusim,NULL
-59,Casluhim,NULL
-60,Caphtorim,NULL
-61,Sidon,NULL
-62,Heth,NULL
-63,the Jebusites,NULL
-64,the Amorites,NULL
-65,the Girgashites,NULL
-66,the Hivites,NULL
-67,the Arkites,NULL
-68,the Sinites,NULL
-69,the Arvadites,NULL
-70,the Zemarites,NULL
-71,the Hamathites,NULL
-72,Elam,NULL
-73,Asshur,NULL
-74,Arpachshad,NULL
-75,Lud,NULL
-76,Aram,NULL
-77,Uz,NULL
-78,Hul,NULL
-79,Gether,NULL
-80,Mash,NULL
-81,Shelah,NULL
-82,Eber,NULL
-83,Peleg,NULL
-84,Joktan,NULL
-85,Almodad,NULL
-86,Sheleph,NULL
-87,Hazarmaveth,NULL
-88,Jerah,NULL
-89,Hadoram,NULL
-90,Uzal,NULL
-91,Diklah,NULL
-92,Obal,NULL
-93,Abimael,NULL
+54,Ludim,Gen. 10:13
+55,Anamim,Gen. 10:13
+56,Lehabim,Gen. 10:13
+57,Naphtuhim,Gen. 10:13
+58,Pathrusim,Gen. 10:14
+59,Casluhim,Gen. 10:14
+60,Caphtorim,Gen. 10:14
+61,Sidon,Gen. 10:15
+62,Heth,Gen. 10:15
+63,the Jebusites,Gen. 10:16
+64,the Amorites,Gen. 10:16
+65,the Girgashites,Gen. 10:16
+66,the Hivites,Gen. 10:17
+67,the Arkites,Gen. 10:17
+68,the Sinites,Gen. 10:17
+69,the Arvadites,Gen. 10:18
+70,the Zemarites,Gen. 10:18
+71,the Hamathites,Gen. 10:18
+72,Elam,Gen. 10:22
+73,Asshur,Gen. 10:22
+74,Arpachshad,"Gen. 10:22,24"
+75,Lud,Gen. 10:22
+76,Aram,Gen. 10:22-23
+77,Uz,Gen. 10:23
+78,Hul,Gen. 10:23
+79,Gether,Gen. 10:23
+80,Mash,Gen. 10:23
+81,Shelah,Gen. 10:24
+82,Eber,Gen. 10:24-25
+83,Peleg,Gen. 10:25
+84,Joktan,Gen. 10:25-30
+85,Almodad,Gen. 10:26
+86,Sheleph,Gen. 10:26
+87,Hazarmaveth,Gen. 10:26
+88,Jerah,Gen. 10:26
+89,Hadoram,Gen. 10:27
+90,Uzal,Gen. 10:27
+91,Diklah,Gen. 10:27
+92,Obal,Gen. 10:28
+93,Abimael,Gen. 10:28
 94,Sheba,Son of Joktan (Gen. 10:28)
-95,Ophir,NULL
+95,Ophir,Gen. 10:29
 96,Havilah,Son of Joktan (Gen. 10:29)
-97,Jobab,NULL
-98,Reu,NULL
-99,Serug,NULL
+97,Jobab,Gen. 10:29
+98,Reu,Gen. 11:20-21
+99,Serug,Gen. 11:22-23
 100,Nahor,Son of Serug (Gen. 11:22-25)
-101,Terah,NULL
-102,Abram (Abraham),NULL
+101,Terah,Gen. 11:26
+102,Abram (Abraham),Gen. 11:26;16;21;25
 103,Nahor,Son of Terah (Gen. 11:26)
-104,Haran,NULL
-105,Lot,NULL
-106,Sarai (Sarah),NULL
-107,Milcah,NULL
-108,Iscah,NULL
-109,Hagar,NULL
-110,Ishmael,NULL
-111,Lot's firstborn daughter,NULL
-112,Lot's younger daughter,NULL
-113,Moab,NULL
-114,Ben-ammi,NULL
-115,Isaac,NULL
-116,Uz,NULL
-117,Buz,NULL
-118,Kemuel,NULL
+104,Haran,Gen. 11:26-29
+105,Lot,Gen. 11:27;19:30-38
+106,Sarai (Sarah),Gen. 20-21
+107,Milcah,Gen. 11:29;22:20-23
+108,Iscah,Gen. 11:29
+109,Hagar,Gen. 16
+110,Ishmael,Gen. 25:12-18
+111,Lot's firstborn daughter,Gen. 19:30-38
+112,Lot's younger daughter,Gen. 19:30-38
+113,Moab,Gen. 19:37
+114,Ben-ammi,Gen. 19:38
+115,Isaac,Gen. 25
+116,Uz,Gen. 22:21
+117,Buz,Gen. 22:21
+118,Kemuel,Gen. 22:21
 119,Aram,Son of Kemuel (Gen. 22:21)
-120,Chesed,NULL
-121,Hazo,NULL
-122,Pildash,NULL
-123,Jidlaph,NULL
-124,Bethuel,NULL
-125,Rebekah,NULL
+120,Chesed,Gen. 22:22
+121,Hazo,Gen. 22:22
+122,Pildash,Gen. 22:22
+123,Jidlaph,Gen. 22:22
+124,Bethuel,Gen. 22:22-23
+125,Rebekah,Gen. 22:23
 126,Reumah,Concubine of Nahor (Gen. 22:24)
-127,Tebah,NULL
-128,Gaham,NULL
-129,Tahash,NULL
-130,Maacah,NULL
-131,Laban,NULL
-132,Keturah,NULL
-133,Zimran,NULL
-134,Jokshan,NULL
-135,Medan,NULL
-136,Midian,NULL
-137,Ishbak,NULL
-138,Shuah,NULL
+127,Tebah,Gen. 22:24
+128,Gaham,Gen. 22:24
+129,Tahash,Gen. 22:24
+130,Maacah,Gen. 22:24
+131,Laban,Gen. 24;29
+132,Keturah,Gen. 25:1-4
+133,Zimran,Gen. 25:2
+134,Jokshan,Gen. 25:2-3
+135,Medan,Gen. 25:2
+136,Midian,"Gen. 25:2,4"
+137,Ishbak,Gen. 25:2
+138,Shuah,Gen. 25:2
 139,Sheba,Son of Jokshan (Gen. 25:3)
 140,Dedan,Son of Jokshan (Gen. 25:3)
-141,Asshurim,NULL
-142,Letushim,NULL
-143,Leummim,NULL
-144,Ephah,NULL
-145,Epher,NULL
-146,Hanoch,NULL
-147,Abida,NULL
-148,Eldaah,NULL
-149,Nebaioth,NULL
-150,Kedar,NULL
-151,Adbeel,NULL
-152,Mibsam,NULL
-153,Mishma,NULL
-154,Dumah,NULL
-155,Massa,NULL
-156,Hadad,NULL
-157,Tema,NULL
-158,Jetur,NULL
-159,Naphish,NULL
-160,Kedemah,NULL
-161,Esau,NULL
-162,Jacob,NULL
-163,Leah,NULL
-164,Rachel,NULL
-165,Bilhah,NULL
-166,Zilpah,NULL
-167,Reuben,NULL
-168,Simeon,NULL
-169,Levi,NULL
-170,Judah,NULL
-171,Dan,NULL
-172,Naphtali,NULL
-173,Gad,NULL
-174,Asher,NULL
-175,Issachar,NULL
-176,Zebulun,NULL
-177,Dinah,NULL
-178,Joseph,NULL
-179,Benjamin,NULL
-180,Adah,NULL
-181,Elon the Hittite,NULL
-182,Oholibamah,NULL
-183,Anah,NULL
-184,Zibeon the Hivite,NULL
-185,Basemath,NULL
+141,Asshurim,Gen. 25:3
+142,Letushim,Gen. 25:3
+143,Leummim,Gen. 25:3
+144,Ephah,Gen. 25:4
+145,Epher,Gen. 25:4
+146,Hanoch,Gen. 25:4
+147,Abida,Gen. 25:4
+148,Eldaah,Gen. 25:4
+149,Nebaioth,Gen. 25:12-18
+150,Kedar,Gen. 25:12-18
+151,Adbeel,Gen. 25:12-18
+152,Mibsam,Gen. 25:12-18
+153,Mishma,Gen. 25:12-18
+154,Dumah,Gen. 25:12-18
+155,Massa,Gen. 25:12-18
+156,Hadad,Gen. 25:12-18
+157,Tema,Gen. 25:12-18
+158,Jetur,Gen. 25:12-18
+159,Naphish,Gen. 25:12-18
+160,Kedemah,Gen. 25:12-18
+161,Esau,Gen. 36
+162,Jacob,Gen. 29-30;35
+163,Leah,Gen. 29-30
+164,Rachel,Gen. 30;35
+165,Bilhah,Gen. 30
+166,Zilpah,Gen. 30
+167,Reuben,Gen. 46
+168,Simeon,Gen. 46
+169,Levi,Gen. 46
+170,Judah,Gen. 46
+171,Dan,Gen. 46
+172,Naphtali,Gen. 46
+173,Gad,Gen. 46
+174,Asher,Gen. 46
+175,Issachar,Gen. 46
+176,Zebulun,Gen. 46
+177,Dinah,Gen. 30:21
+178,Joseph,Gen. 46
+179,Benjamin,Gen. 46
+180,Adah,Gen. 36
+181,Elon the Hittite,Gen. 36
+182,Oholibamah,Gen. 36
+183,Anah,Gen. 36
+184,Zibeon the Hivite,Gen. 36
+185,Basemath,Gen. 36
 186,Eliphaz,Son of Esau (Gen. 36:4)
 187,Reuel,Son of Esau (Gen. 36:4)
 188,Jeush,Son of Esau (Gen. 36:5)
 189,Jalam,Son of Esau (Gen. 36:5)
 190,Korah,Son of Esau (Gen. 36:5)
-191,Teman,NULL
-192,Omar,NULL
-193,Zepho,NULL
-194,Gatam,NULL
-195,Kenaz,NULL
-196,Timna,NULL
-197,Amalek,NULL
-198,Nahath,NULL
+191,Teman,Gen. 36:11
+192,Omar,Gen. 36:11
+193,Zepho,Gen. 36:11
+194,Gatam,Gen. 36:11
+195,Kenaz,Gen. 36:11
+196,Timna,Gen. 36:12
+197,Amalek,Gen. 36:12
+198,Nahath,Gen. 36:13
 199,Zerah,Son of Reuel (Gen. 36:13)
-200,Shammah,NULL
-201,Mizzah,NULL
-202,Shua,NULL
-203,Er,NULL
-204,Onan,NULL
-205,Shelah,NULL
-206,Tamar,NULL
-208,Perez,NULL
-209,Zerah,NULL
-210,Asenath,NULL
-211,Potiphera preist of On,NULL
-212,Manasseh,NULL
-213,Ephraim,NULL
-214,Hanoch,NULL
-215,Pallu,NULL
+200,Shammah,Gen. 36:13
+201,Mizzah,Gen. 36:13
+202,Shua,Gen. 38
+203,Er,Gen. 38
+204,Onan,Gen. 38
+205,Shelah,Gen. 38
+206,Tamar,Gen. 38
+208,Perez,Gen. 38
+209,Zerah,Gen. 38
+210,Asenath,Gen. 41:50-52
+211,Potiphera preist of On,Gen. 41:50-52
+212,Manasseh,Gen. 41:50-52
+213,Ephraim,Gen. 41:50-52
+214,Hanoch,Gen. 46:9
+215,Pallu,Gen. 46:9
 216,Hezron,Son of Reuben (Gen. 46:9)
-217,Carmi,NULL
-218,Jemuel,NULL
-219,Jamin,NULL
-220,Ohad,NULL
-221,Jachin,NULL
-222,Zohar,NULL
-223,Shaul,NULL
-224,Gershon,NULL
-225,Kohath,NULL
-226,Merari,NULL
+217,Carmi,Gen. 46:9
+218,Jemuel,Gen. 46:10
+219,Jamin,Gen. 46:10
+220,Ohad,Gen. 46:10
+221,Jachin,Gen. 46:10
+222,Zohar,Gen. 46:10
+223,Shaul,Gen. 46:10
+224,Gershon,Gen. 46:11
+225,Kohath,Gen. 46:11
+226,Merari,Gen. 46:11
 227,Hezron,Son of Perez (Gen. 46:12)
-228,Hamul,NULL
-229,Tola,NULL
-230,Puvah,NULL
-231,Yob,NULL
-232,Shimron,NULL
-233,Sered,NULL
-234,Elon,NULL
-235,Jahleel,NULL
-236,Ziphion,NULL
-237,Haggi,NULL
-238,Shuni,NULL
-239,Ezbon,NULL
-240,Eri,NULL
-241,Arodi,NULL
-242,Areli,NULL
-243,Imnah,NULL
-244,Ishvah,NULL
-245,Ishvi,NULL
-246,Beriah,NULL
-247,Serah,NULL
-248,Heber,NULL
-249,Malchiel,NULL
-250,Bela,NULL
-251,Becher,NULL
-252,Ashbel,NULL
-253,Gera,NULL
-254,Naaman,NULL
-255,Ehi,NULL
-256,Rosh,NULL
-257,Muppim,NULL
-258,Huppim,NULL
-259,Ard,NULL
-260,Hushim,NULL
-261,Jahzeel,NULL
-262,Guni,NULL
-263,Jezer,NULL
-264,Shillem,NULL
-265,Machir,NULL
+228,Hamul,Gen. 46:12
+229,Tola,Gen. 46:13
+230,Puvah,Gen. 46:13
+231,Yob,Gen. 46:13
+232,Shimron,Gen. 46:13
+233,Sered,Gen. 46:14
+234,Elon,Gen. 46:14
+235,Jahleel,Gen. 46:14
+236,Ziphion,Gen. 46:16
+237,Haggi,Gen. 46:16
+238,Shuni,Gen. 46:16
+239,Ezbon,Gen. 46:16
+240,Eri,Gen. 46:16
+241,Arodi,Gen. 46:16
+242,Areli,Gen. 46:16
+243,Imnah,Gen. 46:17
+244,Ishvah,Gen. 46:17
+245,Ishvi,Gen. 46:17
+246,Beriah,Gen. 46:17
+247,Serah,Gen. 46:17
+248,Heber,Gen. 46:17
+249,Malchiel,Gen. 46:17
+250,Bela,Gen. 46:21
+251,Becher,Gen. 46:21
+252,Ashbel,Gen. 46:21
+253,Gera,Gen. 46:21
+254,Naaman,Gen. 46:21
+255,Ehi,Gen. 46:21
+256,Rosh,Gen. 46:21
+257,Muppim,Gen. 46:21
+258,Huppim,Gen. 46:21
+259,Ard,Gen. 46:21
+260,Hushim,Gen. 46:23
+261,Jahzeel,Gen. 46:24
+262,Guni,Gen. 46:24
+263,Jezer,Gen. 46:24
+264,Shillem,Gen. 46:24
+265,Machir,Gen. 50:23
+266,the Philistines,Gen. 10:14

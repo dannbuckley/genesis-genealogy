@@ -5,13 +5,16 @@ people = pd.read_csv('people.csv')
 relations = pd.read_csv('relations.csv')
 
 a = pgv.AGraph()
-for row in people.iterrows():
-    a.add_node(row[1]['rowid'], label=row[1]['person'])
+for _, row in people.iterrows():
+    n = row['notes']
+    p = row['person']
+    l = '{} [{}]'.format(p, n[n.find('(') + 6:-1] if '(' in n else n[5:])
+    a.add_node(row['rowid'], label=l)
 
-for row in relations.iterrows():
-    rm = str(int(row[1]['male']))
-    rd = str(int(row[1]['descendant']))
-    rf = row[1]['female']
+for _, row in relations.iterrows():
+    rm = str(int(row['male']))
+    rd = str(int(row['descendant']))
+    rf = row['female']
 
     if rf > 0:
         # mother listed, indicate with red line
