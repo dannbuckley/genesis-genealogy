@@ -21,10 +21,12 @@ for _, row in relations.iterrows():
         rf = str(int(rf))
         a.add_edge(rm, rf, color='red')
         # attach descendant to mother's node with black line
-        a.add_edge(rf, rd)
+        a.add_edge(rf, rd, dir='forward', arrowsize=0.7, arrowhead='empty')
     else:
         # black line from father to descendant 
-        a.add_edge(rm, rd)
+        a.add_edge(rm, rd, dir='forward', arrowsize=0.7)
 
+# draw graph to files
 a.draw('tree.png', prog='dot')
+a.draw('tree.svg', prog='dot')
 print('Done!')
